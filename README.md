@@ -107,7 +107,7 @@ export FERNET_KEY=<generated_fernet_key>
 export SECRET_KEY=<your_secret_key>
 export EMAIL_PASSWORD=<your_email_password>
 ```
-The current EMAIL_PASSWORD is xzwqyvzzxcfhdkzx.
+The current EMAIL_PASSWORD is nkvzlnucezpazqwb. (as of nov 29th)
 
 Note that you can store your fernet and secret keys in fernetkey.txt for your future access.
 
